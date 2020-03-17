@@ -26,7 +26,7 @@ const isMatchingBracket = s => {
           stack.push(currentChar);
       } else if(isClosingBracket(currentChar) && isMatchingBracket(currentChar)) {
           stack.pop()
-      } else if(isClosingBracket(currentChar) && brackets[stack.length - 1] !== currentChar) {
+      } else if(isClosingBracket(currentChar) && !isMatchingBracket(currentChar)) {
           return false;
       }
   }
