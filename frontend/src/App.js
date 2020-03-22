@@ -10,7 +10,7 @@ function App() {
       <BrowserRouter>
         <Route path="/" component={Header}/>
         <Route exact path="/provider-registration" component={ProviderRegistration} />
-        <WelcomePage/>
+        <Route exact path="/" component={WelcomePage} />
       </BrowserRouter>
     </div>
   );
