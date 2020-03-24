@@ -1,4 +1,4 @@
-install: 
+## install: 
 `npm i`
-run the file:
+## run the file:
 `node index.js`
