@@ -1,0 +1,18 @@
+UserId,FirstName,LastName,Version,InsuranceCompany
+1,Csaba,Balogh,1,Florida Blue
+2,Anderson,Lavor,1,Aetna
+3,Banderson,Lavor,2,Florida Blue
+3,Banderson,Lavor,2,Florida Blue
+3,Banderson,Lavor,2,Florida Blue
+2,Anderson,Lavor,2,Aetna
+3,John,Smith,1,Aetna
+4,Michael,Jordan,1,Aetna
+5,Elvis,Presley,1,Aetna
+6,John,Travolta,1,Aetna
+7,Random,User,1,US health
+8,John,Finutchy,1,Thomas & Associates
+9,Aanderson,Lavor,1,US health
+3,Banderson,Lavor,2,US health
+3,Banderson,Lavor,3,US health
+3,Banderson,Lavor,4,US health
+3,Banderson,Lavor,5,US health
